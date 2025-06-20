@@ -60,6 +60,7 @@ nav {
   #person{
       margin: 10px;
       color: #ffffff;
+      text-decoration:none;
   }
   
   #person:hover{
