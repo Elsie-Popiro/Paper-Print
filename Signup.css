@@ -55,6 +55,7 @@ background-color: #3c4b23;
 #person{
     margin: 10px;
     color: #ffffff;
+    text-decoration:none;
 }
 
 #person:hover{
